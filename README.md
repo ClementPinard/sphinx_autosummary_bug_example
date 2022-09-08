@@ -1,0 +1,1 @@
+# sphinx_autosummary_bug_example
